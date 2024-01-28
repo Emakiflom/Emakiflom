@@ -9,7 +9,7 @@ I'm a passionate software engineering student at ALX Africa 🌍, currently honi
 - 💞️ I’m looking to collaborate on: Projects that challenge and enhance my software engineering skills.
 
 - 📫 How to reach me:  LinkedIn: [Aman Hablu](https://www.linkedin.com/in/aman-hablu-557385270/)
-
+- 📫 How to reach me Gmail: **amankflom23@gmail.com**
 
 
 
