@@ -59,7 +59,7 @@ I'm a passionate software engineering student at ALX Africa 🌍, currently honi
 ### Operating Systems:
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>](https://www.linux.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>](https://ubuntu.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows/windows-original.svg" alt="windows" width="40" height="40"/>](https://www.microsoft.com/windows)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>](https://www.microsoft.com/windows)
 
 
 
