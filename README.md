@@ -12,6 +12,9 @@ I'm a passionate software engineering student at ALX Africa 🌍, currently honi
 - 📫 How to reach me:  LinkedIn: [Aman Hablu](https://www.linkedin.com/in/aman-hablu-557385270/)
 - 📫 How to reach me Gmail: **amankflom23@gmail.com**
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Emakiflom&show_icons=true&locale=en&layout=compact" alt="Emakiflom" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Emakiflom&show_icons=true&locale=en" alt="Emakiflom" /></p>
 
 
 
