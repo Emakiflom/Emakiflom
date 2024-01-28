@@ -10,9 +10,12 @@ I'm a passionate software engineering student at ALX Africa 🌍, currently honi
 
 - 📫 How to reach me:  LinkedIn: [Aman Hablu](https://www.linkedin.com/in/aman-hablu-557385270/)
 
-- 😄 Pronouns: [Share your preferred pronouns.]
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ketema741&label=Profile%20views&color=0e75b6&style=flat" alt="ketema741" /> </p>
 
-- ⚡ Fun fact: [Add a fun or interesting fact about yourself to make your profile more personal.]
+
+
+
+
 
 <!-- Feel free to customize and add more sections as needed! -->
 
