@@ -20,8 +20,9 @@ I'm a passionate software engineering student at ALX Africa 🌍, currently honi
 ## Languages and Tools:
 
 ### Programming Languages:
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>](https://www.learn-c.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>](https://www.w3schools.com/cpp/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>](https://dart.dev)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>](https://dart.dev/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>](https://www.python.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>](https://www.php.net/)
@@ -38,6 +39,8 @@ I'm a passionate software engineering student at ALX Africa 🌍, currently honi
 ### Backend and Frameworks:
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>](https://expressjs.com/)
 [<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>](https://nodejs.org/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>](https://www.mongodb.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original-wordmark.svg" alt="mongoose" width="40" height="40"/>](https://mongoosejs.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>](https://www.mysql.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>](https://www.postgresql.org/)
 
@@ -50,6 +53,8 @@ I'm a passionate software engineering student at ALX Africa 🌍, currently honi
 
 ### Operating Systems:
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>](https://www.linux.org/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>](https://ubuntu.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows/windows-original.svg" alt="windows" width="40" height="40"/>](https://www.microsoft.com/windows)
 
 
 
