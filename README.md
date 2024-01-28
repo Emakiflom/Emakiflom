@@ -1,6 +1,7 @@
 # Hi there! 👋 I'm Emakiflom
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Emakiflom&label=Profile%20views&color=0e75b6&style=flat" alt="Emakiflom" /> </p>
 I'm a passionate software engineering student at ALX Africa 🌍, currently honing my skills in various aspects of software development.
+<img align="right" alt="Coding" width="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 - 👀 I’m interested in: Mobile networking, telecommunications, and exploring the vast world of software engineering.
 
@@ -10,6 +11,7 @@ I'm a passionate software engineering student at ALX Africa 🌍, currently honi
 
 - 📫 How to reach me:  LinkedIn: [Aman Hablu](https://www.linkedin.com/in/aman-hablu-557385270/)
 - 📫 How to reach me Gmail: **amankflom23@gmail.com**
+
 
 
 
