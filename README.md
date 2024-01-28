@@ -5,7 +5,7 @@ I'm a passionate software engineering student at ALX Africa 🌍, currently honi
 
 - 👀 I’m interested in: Mobile networking, telecommunications, and exploring the vast world of software engineering.
 
-- 🌱 I’m currently learning: Software engineering principles, [mention specific technologies or languages you are currently studying], and applying my knowledge to real-world projects.
+- 🌱 I’m currently learning: Software engineering principles, Python, JavaScript (Node.js, Express.js, Mongoose), and applying my knowledge to real-world projects.
 
 - 💞️ I’m looking to collaborate on: Projects that challenge and enhance my software engineering skills.
 
