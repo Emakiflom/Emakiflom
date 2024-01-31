@@ -13,13 +13,12 @@ I'm a passionate software engineering student at ALX Africa 🌍, currently honi
 - 📫 How to reach me Gmail: **amankflom23@gmail.com**
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Emakiflom&" alt="Emakiflom" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Emakiflom" alt="Emakiflom" /></a> </p>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Emakiflom&show_icons=true&locale=en&layout=compact" alt="Emakiflom" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Emakiflom&show_icons=true&locale=en" alt="Emakiflom" /></p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Emakiflom" alt="Emakiflom" /></a> </p>
   
 ## Languages and Tools:
 
